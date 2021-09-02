@@ -1,1 +1,1 @@
-# Python-for-Data-Science-AI-Development-Labs
+# Python-for-Data-Science-and-AI-Labs
